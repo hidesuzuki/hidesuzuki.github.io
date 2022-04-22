@@ -35,6 +35,7 @@ hugo server -D
 hugo
 ```
 ## git pushでデプロイ
+`.github/workflows/gh-pages.yml`を以下の通りにすると`main`ブランチの`public`配下を`master`ブランチにpushする。
 ```yml
 name: GitHub Pages
 
