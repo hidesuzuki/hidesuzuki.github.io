@@ -13,7 +13,8 @@
       <pubDate>Fri, 22 Apr 2022 18:07:41 +0900</pubDate>
       
       <guid>http://hidesuzuki.github.io/posts/hugo_tutorial/</guid>
-      <description>HUGOの使い始め 自身の備忘録をWordpressで構築していた。 管理画面にはVPNサーバーのIPアドレスのみ許容するようにしていたのだが、VPNサーバーの乗り換えに伴い、しばらく記事を更新しないでいた。
+      <description>HUGOの使い始め 自身の備忘録をWordpressで構築していた。
+管理画面にはVPNサーバーのIPアドレスのみ許容するようにしていたのだが、VPNサーバーの乗り換えに伴い、しばらく記事を更新しないでいた。
 諸々の管理が煩わしくなっていたので、今後はHUGOを使用した静的ページで運用していこうと思い、そのことに関して備忘録を残したいと思う。
 過去の記事は随時公開予定。
 導入 Homebrewでインストール
