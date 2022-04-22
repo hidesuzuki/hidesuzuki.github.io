@@ -22,7 +22,7 @@ hugo new site PROJECT_NAME 記事の作成
 hugo new posts/NAME.md サーバー起動
 hogo server ドラフト記事を表示する場合は-Dオプションをつける
 hugo server -D ビルド
-hugo </description>
+hugo git pushでデプロイ name: GitHub Pages  on:  push:  branches:  - main  # Set a branch to deploy  jobs:  deploy:  runs-on: ubuntu-20.04  steps:  - uses: actions/checkout@v3  with:  submodules: true # Fetch Hugo themes (true OR recursive)  fetch-depth: 0 # Fetch all history for .</description>
     </item>
     
   </channel>
