@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.jp]
-    title = "Ananke"
+    title = "hidesuzukiの備忘録"
     weight = 1
     contentDir = "content/"
     # languageDirection = 'rtl' for Right-To-Left languages
