@@ -6,7 +6,18 @@
     <description>Recent content in Posts on hidesuzukiの備忘録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 22 Apr 2022 18:07:41 +0900</lastBuildDate><atom:link href="http://hidesuzuki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 09:21:58 +0900</lastBuildDate><atom:link href="http://hidesuzuki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pyenv</title>
+      <link>http://hidesuzuki.github.io/posts/pyenv/</link>
+      <pubDate>Wed, 27 Apr 2022 09:21:58 +0900</pubDate>
+      
+      <guid>http://hidesuzuki.github.io/posts/pyenv/</guid>
+      <description>参考
+参考
+現在のバージョン確認 pyenv version インストール済みのバージョンを表示 pyenv versions インストール可能な一覧の表示 pyenv install -l ローカル環境に適用 pyenv local [version] グローバル環境に適用 pyenv global [version] hogeという名前で開発環境を作成 python -m venv hoge hogeをアクティブにする source hobe/bin/activate アクティブになっている開発環境を修了する deactivate </description>
+    </item>
+    
     <item>
       <title> HUGO導入</title>
       <link>http://hidesuzuki.github.io/posts/hugo_tutorial/</link>
